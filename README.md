@@ -45,7 +45,7 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 
 <h2> 📲 connect with me:</h2>
   
-[<img align="left" alt="Stephanie | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="Stephanie | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/steph-dawson-8ab68856
 <!--
