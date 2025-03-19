@@ -31,11 +31,11 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 <h2>👨🏻‍💻 🌎 🔐 Cyber Security / IT Projects 👨🏻‍💻 🌎 🔐</h2>
  <br />
   
-  - [Creating a Live SOC / Honey Net in Azure](https://github.com/steph-daws/Azure-Honey-Net-SOC)
+  - [Creating a Live SOC / Honey Net in Azure](https://github.com/steph-daws/HoneyNet-Project/blob/main/README.md)
   - [Setting Up Vulnerable VMs in Azure](https://github.com/steph-daws/Azure-VM-Prep/blob/main/README.md)
-  - [Cloud SOC Project Resources](https://github.com/steph-daws/Cloud-SOC-Project-Resources)
+<!--  - [Cloud SOC Project Resources](https://github.com/steph-daws/Cloud-SOC-Project-Resources)
   - [Active Directory VM Lab](https://github.com/steph-daws/ActiveDirectoryLab)
-    
+ -->   
  ---
 
 
