@@ -28,7 +28,7 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 
 
 
-<h2>👨🏻‍💻 🌎 🔐 Cyber Security / IT Projects 👨🏻‍💻 🌎 🔐</h2>
+<h2>👩🏽‍💻 🌎 🔐 Cyber Security / IT Projects 👩🏽‍💻 🌎 🔐</h2>
  <br />
   
   - [Creating a Live SOC / Honey Net in Azure](https://github.com/steph-daws/HoneyNet-Project/blob/main/README.md)
